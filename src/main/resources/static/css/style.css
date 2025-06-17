@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swap');
+
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blanchedalmond;
+    text-transform: uppercase; /* todo mayus*/
+    letter-spacing: 2px; /* espaciado */
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.table {
+    background-color: #333333;
+    border-color: blue;
+}
+.btn-primary {
+    background-color: #e62323;
+    border-color: darkred;
+    border-radius: 5px;
+    box-shadow: bisque;
+}
+.btn-primary:hover {
+    background-color: #c41212;
+    border-color: #c41212;
+
+}
+.thead-dark{
+    background-color: #000000;
+    color: #e62323;
+}
